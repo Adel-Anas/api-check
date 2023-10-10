@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+ .userlist{
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+ }
+
+ h1{
+    font-family: "Poppins";
+    font-size: 35px;
+    font-weight: 600;
+ }
+
+ .userlist strong{
+    text-decoration: underline;
+ }
